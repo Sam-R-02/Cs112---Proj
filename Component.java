@@ -16,7 +16,7 @@ public class Component {
         }
 
             productID = productID + catalogNum;
-            productID.toUpperCase();
+            productID = productID.toUpperCase();
 
     }
 }
